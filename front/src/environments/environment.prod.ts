@@ -1,0 +1,5 @@
+export const environment = {
+  production: true,
+  sheetNotificationlUrl:'https://script.googleusercontent.com/macros/echo?user_content_key=zYzqKAiUjgQNX2wGK5cHwqpGx_azo8-CQM5x5ceqIPPuGwiFvsooQcEYQJm0Jkm79Kj5RR98RZwwOlSy-EQ6yv7bakDo5ekxm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnCuoFIfnBUl2ybwsww6E4OnAy5IdW43CQdho-8enT7pkY667bujNtt848o4cwK70GZ4inicj0Vhv_N3iF6Jea6MQJPtb0V-2rNz9Jw9Md8uu&lib=MlN7smOUPSc3uWxTIbst7yrqcNNKnSQbX'
+
+};
