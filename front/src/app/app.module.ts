@@ -11,6 +11,7 @@ import { WhoWeAreComponent } from './components/who-we-are/who-we-are.component'
 import { PricingComponent } from './components/pricing/pricing.component';
 import { FaqComponent } from './components/faq/faq.component';
 import { HttpClientModule } from '@angular/common/http';
+import { TestimonialComponent } from './components/testimonial/testimonial.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +21,8 @@ import { HttpClientModule } from '@angular/common/http';
     BenefitsOfTaxComponent,
     WhoWeAreComponent,
     PricingComponent,
-    FaqComponent
+    FaqComponent,
+    TestimonialComponent
     
   ],
   imports: [
